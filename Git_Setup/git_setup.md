@@ -45,6 +45,7 @@ git config --global user.email "00m3@private"
 
 ---
 
+***Check if present***
 ```
 /home/qwerty/.ssh/config
 ```
@@ -79,7 +80,7 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/g
 ```
 git clone git@RepNm:00m3/RepNm.git
 ```
-***Icheck for new local files***
+***Check for new local files***
 ```
 git add .
 ```
