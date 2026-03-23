@@ -6,12 +6,12 @@
 #### H4				– Minor subsection
 ```
 #### Text Styling
-```
-**text** or __text__            - Bold
-*text* or _text_                - Italic
-~~text~~                        - Strikethrough
-***text***                      - Bold & Italic
-```
+
+`**text** or __text__`		- Bold
+`*text* or _text_`		- Italic
+`~~text~~`			- Strikethrough
+`***text***`			- Bold & Italic
+
 #### Lists
 ```
 - Item 1
