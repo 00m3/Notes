@@ -1,9 +1,12 @@
 #### Headings
-`# H1				– Main title
+```
+# H1				– Main title
 ## H2				– Major section
 ### H3				– Subsection
-#### H4				– Minor subsection`
+#### H4				– Minor subsection
+```
 #### Text Styling
+
 `__Bold__`
 </br>
 `_Italic_`
@@ -11,12 +14,15 @@
 `~~Strikethrough~~`
 </br>
 `***Bold & Italic***`
+
 #### Lists
-`- Item 1
+```
+- Item 1
 - Item 2
 	- Nested item
 	- Another nested
-- Item 3`
+- Item 3
+```
 ```
 1. First step
 2. Second step
