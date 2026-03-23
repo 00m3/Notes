@@ -6,7 +6,7 @@ mkdir ~/.ssh
 ssh-keygen -t ed25519 -C "GH_00m3_RepNm" -f ~/.ssh/id_ed25519_GH_00m3_RepNm
 ```
 ```
-ssh-add ~/.ssh/id_ed25519_GH_00m3_RepoName
+ssh-add ~/.ssh/id_ed25519_GH_00m3_RepNm
 ```
 _Check added._
 ```
@@ -14,7 +14,7 @@ ssh-add -l
 ```
 _Delete added._
 ```
-ssh-add -d ~/.ssh/id_ed25519_GH_00m3_RepoName
+ssh-add -d ~/.ssh/id_ed25519_GH_00m3_RepNm
 ```
 ### Define user name and user email globaly
 ```
@@ -30,5 +30,5 @@ git config --global user.email "00m3@private"
 ```
 Host RepNm
         Hostname github.com
-        IdentityFile=/home/qwerty/.ssh/id_ed25519_GH_00m3_RepNm_
+        IdentityFile=/home/qwerty/.ssh/id_ed25519_GH_00m3_RepNm
 ```
