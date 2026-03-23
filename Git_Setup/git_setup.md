@@ -5,7 +5,7 @@
 
 ---
 
-	***Check if present***
+***Check if present***
 ```
 mkdir ~/.ssh
 ```
