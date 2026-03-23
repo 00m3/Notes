@@ -70,3 +70,26 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/g
 ```
 
 ---
+
+# Git commands
+
+---
+
+***Fetch files from cloud (clone)***
+```
+git clone git@RepNm:00m3/RepNm.git
+```
+***Icheck for new local files***
+```
+git add .
+```
+***Add changes to local repository (commit)***
+```
+git commit -a -m "msg"
+```
+***Upload files to cloud (push)***
+```
+git push
+```
+
+---
