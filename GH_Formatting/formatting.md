@@ -7,10 +7,14 @@
 ```
 #### Text Styling
 
-`**text** or __text__`		- Bold
-`*text* or _text_`		- Italic
-`~~text~~`			- Strikethrough
-`***text***`			- Bold & Italic
+__Bold__
+`**text** or __text__`
+_Italic_
+`*text* or _text_`
+~~Strikethrough~~
+`~~text~~`
+***Bold & Italic
+`***text***`
 
 #### Lists
 ```
