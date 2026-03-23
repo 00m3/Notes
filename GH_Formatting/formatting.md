@@ -1,10 +1,8 @@
 #### Headings
-```
-# H1				– Main title
+```# H1				– Main title
 ## H2				– Major section
 ### H3				– Subsection
-#### H4				– Minor subsection
-```
+#### H4				– Minor subsection```
 #### Text Styling
 
 `__Bold__`
