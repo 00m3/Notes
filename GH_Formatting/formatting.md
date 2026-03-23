@@ -8,7 +8,7 @@
 #### Text Styling
 
 __Bold__
-<br>
+</br>
 `**text** or __text__`
 _Italic_
 `*text* or _text_`
