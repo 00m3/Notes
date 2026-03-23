@@ -8,11 +8,11 @@ ssh-keygen -t ed25519 -C "GH_00m3_RepNm" -f ~/.ssh/id_ed25519_GH_00m3_RepNm
 ```
 ssh-add ~/.ssh/id_ed25519_GH_00m3_RepNm
 ```
-***Check added.***
+***Check added***
 ```
 ssh-add -l
 ```
-***Delete added.***
+***Delete added***
 ```
 ssh-add -d ~/.ssh/id_ed25519_GH_00m3_RepNm
 ```
