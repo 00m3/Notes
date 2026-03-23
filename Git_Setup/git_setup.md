@@ -1,7 +1,7 @@
 
 ---
 
-#	Git config
+	# Git config
 
 ---
 
@@ -28,7 +28,7 @@ ssh-add -d ~/.ssh/id_ed25519_GH_00m3_RepNm
 
 ---
 
-###	Define user name and user email globaly
+	### Define user name and user email globaly
 
 ---
 
@@ -41,7 +41,7 @@ git config --global user.email "00m3@private"
 
 ---
 
-###	Config SSH agent aliases
+	### Config SSH agent aliases
 
 ---
 
@@ -56,7 +56,7 @@ Host RepNm
 
 ---
 
-###	Config known hosts
+	### Config known hosts
 
 ---
 
