@@ -1,4 +1,4 @@
-# H1				– Main title
+```# H1				– Main title
 ## H2				– Major section
 ### H3				– Subsection
 #### H4				– Minor subsection
@@ -27,3 +27,4 @@
 [Link title](https://example.com "Title")
 
 ![Alt text](my_folder/my_image.jpg "Title")
+```
