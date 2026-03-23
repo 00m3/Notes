@@ -1,0 +1,22 @@
+[
+	{
+		"context": "Workspace",
+		"bindings": {},
+	},
+	{
+		"context": "Editor",
+		"bindings": {
+			"ctrl-shift-backspace": "editor::DeleteToNextWordEnd",
+			"alt-backspace": "editor::DeleteToPreviousSubwordStart",
+			"alt-right": "editor::MoveToNextSubwordEnd",
+			"alt-left": "editor::MoveToPreviousSubwordStart",
+
+			"ctrl-shift-enter": "editor::NewlineAbove",
+			"ctrl-enter": "editor::NewlineBelow",
+
+			"home": "menu::SelectFirst",
+			"end": "menu::SelectLast",
+			"ctrl-m": "editor::MoveToEnclosingBracket",
+		},
+	},
+]
