@@ -16,3 +16,9 @@ _Delete added._
 ```
 ssh-add -d ~/.ssh/id_ed25519_GH_00m3_RepoName
 ```
+```
+git config --global user.name "00m3"
+```
+```
+git config --global user.email "00m3@private"
+```
