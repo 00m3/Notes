@@ -35,7 +35,7 @@ Host RepNm
         IdentityFile=/home/qwerty/.ssh/id_ed25519_GH_00m3_RepNm
 ```
 ### Config known hosts
-
+</br>
 ***GH public fingerprints***
 ```
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/githubs-ssh-key-fingerprints
