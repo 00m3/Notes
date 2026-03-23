@@ -10,11 +10,17 @@
 __Bold__
 </br>
 `**text** or __text__`
+</br>
 _Italic_
+</br>
 `*text* or _text_`
+</br>
 ~~Strikethrough~~
+</br>
 `~~text~~`
+</br>
 ***Bold & Italic***
+</br>
 `***text***`
 
 #### Lists
