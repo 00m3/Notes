@@ -16,9 +16,19 @@ _Delete added._
 ```
 ssh-add -d ~/.ssh/id_ed25519_GH_00m3_RepoName
 ```
+### Define user name and user email globaly
 ```
 git config --global user.name "00m3"
 ```
 ```
 git config --global user.email "00m3@private"
+```
+### Config SSH agent aliases
+```
+/home/qwerty/.ssh/config
+```
+```
+Host RepNm
+        Hostname github.com
+        IdentityFile=/home/qwerty/.ssh/id_ed25519_GH_00m3_RepNm_
 ```
