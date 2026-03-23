@@ -6,10 +6,13 @@
 #### H4				– Minor subsection
 ```
 #### Text Styling
-__Bold__
-_Italic_
-~~Strikethrough~~
-***Bold & Italic***
+`__Bold__`
+</br>
+`_Italic_`
+</br>
+`~~Strikethrough~~`
+</br>
+`***Bold & Italic***`
 #### Lists
 ```
 - Item 1
