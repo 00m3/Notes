@@ -8,12 +8,13 @@
 #### Text Styling
 
 __Bold__
+<br>
 `**text** or __text__`
 _Italic_
 `*text* or _text_`
 ~~Strikethrough~~
 `~~text~~`
-***Bold & Italic
+***Bold & Italic***
 `***text***`
 
 #### Lists
