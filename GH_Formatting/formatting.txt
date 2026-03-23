@@ -10,14 +10,14 @@
 
 - Item 1
 - Item 2
-  - Nested item
-  - Another nested
+	- Nested item
+	- Another nested
 - Item 3
 
 1. First step
 2. Second step
-   1. Sub-step
-   2. Another sub-step
+	1. Sub-step
+	2. Another sub-step
 3. Third step
 
 - [x] Completed task
