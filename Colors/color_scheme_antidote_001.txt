@@ -1,14 +1,7 @@
+White			42 100 95	255 248 231	FFF8E7
 
----
-
-# Color scheme: Antidote_001
-
----
-
-White `FFF8E7`
-
-Black_light `2E2E2E`
-Black_base `242424`
+Black_light		0 0 18		46 46 46	2E2E2E
+Black_base		0 0 14		36 36 36	242424
 Black_dark		0 0 10		26 26 26	1A1A1A
 
 Red_light		0 100 90	255 204 204	FFCCCC
