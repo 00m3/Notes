@@ -6,6 +6,9 @@
 ---
 
 ```
+sudo apt install ruby-dev
+```
+```
 sudo apt install rbenv
 ```
 ```
