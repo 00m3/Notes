@@ -1,14 +1,5 @@
-
----
-
-# The One 
-
----
-
-### Hex
-
-White	
-```FFF8E7```
+```
+White			42 100 95	255 248 231	FFF8E7
 
 Black_light		0 0 18		46 46 46	2E2E2E
 Black_base		0 0 14		36 36 36	242424
@@ -50,3 +41,4 @@ Golden_dark		49 22 70	195 189 162	C3BDA2
 Golden_semi_darker	49 22 55	165 156 115	A59C73
 Golden_darker		49 22 25	78 73 50	4E4932
 Golden_darkest		49 22 15	47 44 30	2F2C1E
+```
