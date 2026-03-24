@@ -1,7 +1,19 @@
+
+---
+
+### White
+
+---
+
 White
 ```
 FFF8E7
 ```
+---
+
+### Black
+
+---
 
 Black_light
 ```
@@ -15,6 +27,12 @@ Black_dark
 ```
 1A1A1A
 ```
+
+---
+
+### Red
+
+---
 
 Red_light
 ```
@@ -33,6 +51,12 @@ Red_darker
 800000
 ```
 
+---
+
+### Yellow
+
+---
+
 Yellow_light
 ```
 FFFFCC
@@ -49,6 +73,12 @@ Yellow_darker
 ```
 7F8000
 ```
+
+---
+
+### Green
+
+---
 
 Green_light
 ```
@@ -67,6 +97,12 @@ Green_darker
 008000
 ```
 
+---
+
+### Cyan
+
+---
+
 Cyan_light
 ```
 CCFFFF
@@ -83,6 +119,12 @@ Cyan_darker
 ```
 007F80
 ```
+
+---
+
+### Lavender
+
+---
 
 Lavender_light
 ```
@@ -101,6 +143,12 @@ Lavender_darker
 000080
 ```
 
+---
+
+### Magenta
+
+---
+
 Magenta_light
 ```
 FFCCFF
@@ -117,6 +165,12 @@ Magenta_darker
 ```
 80007F
 ```
+
+---
+
+### Golden
+
+---
 
 Golden_light
 ```
@@ -142,3 +196,5 @@ Golden_darkest
 ```
 2F2C1E
 ```
+
+---
