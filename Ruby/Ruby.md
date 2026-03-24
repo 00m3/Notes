@@ -57,13 +57,4 @@ sudo apt install libffi-dev
 sudo apt install build-essential libssl-dev libyaml-dev zlib1g-dev libffi-dev
 ```
 
-
-
-
-
-
-
-
-
-
-mise use ruby@4.0.1
+---
