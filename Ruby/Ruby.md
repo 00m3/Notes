@@ -6,9 +6,6 @@
 ---
 
 ```
-sudo apt install ruby-dev
-```
-```
 sudo apt install rbenv
 ```
 ```
@@ -20,11 +17,6 @@ rbenv install x.y.z
 ```
 rbenv global x.y.z
 ```
-***Current session***
-```
-eval "$(rbenv init -)"
-```
-***Global***
 ```
 echo 'eval "$(rbenv init -)"' >> ~/.bashrc
 ```
