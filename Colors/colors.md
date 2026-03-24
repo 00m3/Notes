@@ -1,49 +1,76 @@
+White
+```FFF8E7```
 
----
+Black_light
+```2E2E2E```
+Black_base
+```242424```
+Black_dark
+```1A1A1A```
 
-# Color scheme: Antidote_001
+Red_light
+```FFCCCC```
+Red_base
+```FF9999```
+Red_dark
+```FF6666```
+Red_darker
+```800000```
 
----
+Yellow_light
+```FFFFCC```
+Yellow_base
+```FFFF99```
+Yellow_dark
+```FFFF66```
+Yellow_darker
+```7F8000```
 
-White        `FFF8E7`
+Green_light
+```CCFFCC```
+Green_base
+```99FF99```
+Green_dark
+```66FF66```
+Green_darker
+```008000```
 
-Black_light `2E2E2E`
-Black_base `242424`
-Black_dark		0 0 10		26 26 26	1A1A1A
+Cyan_light
+```CCFFFF```
+Cyan_base
+```99FFFF```
+Cyan_dark
+```66FFFF```
+Cyan_darker
+```007F80```
 
-Red_light		0 100 90	255 204 204	FFCCCC
-Red_base		0 100 80	255 153 153	FF9999
-Red_dark		0 100 70	255 102 102	FF6666
-Red_darker		0 100 25	128 0 0		800000
+Lavender_light
+```CCCCFF```
+Lavender_base
+```9999FF```
+Lavender_dark
+```6666FF```
+Lavender_darker
+```000080```
 
-Yellow_light		60 100 90	255 255 204	FFFFCC
-Yellow_base		60 100 80	255 255 153	FFFF99
-Yellow_dark		60 100 70	255 255 102	FFFF66
-Yellow_darker		60 100 25	127 128 0	7F8000
+Magenta_light
+```FFCCFF```
+Magenta_base
+```FF99FF```
+Magenta_dark
+```FF66FF```
+Magenta_darker
+```80007F```
 
-Green_light		120 100 90	204 255 204	CCFFCC
-Green_base		120 100 80	153 255 153	99FF99
-Green_dark		120 100 70	102 255 102	66FF66
-Green_darker		120 100 25	0 128 0		008000
-
-Cyan_light		180 100 90	204 255 255	CCFFFF
-Cyan_base		180 100 80	153 255 255	99FFFF
-Cyan_dark		180 100 70	102 255 255	66FFFF
-Cyan_darker		180 100 25	0 127 128	007F80
-
-Lavender_light		240 100 90	204 204 255	CCCCFF
-Lavender_base		240 100 80	153 153 255	9999FF
-Lavender_dark		240 100 70	102 102 255	6666FF
-Lavender_darker		240 100 25	0 0 128		000080
-
-Magenta_light		300 100 90	255 204 255	FFCCFF
-Magenta_base		300 100 80	255 153 255	FF99FF
-Magenta_dark		300 100 70	255 102 255	FF66FF
-Magenta_darker		300 100 25	128 0 127	80007F
-
-Golden_light		49 22 90	235 233 224	EBE9E0
-Golden_base		49 22 80	215 211 193	D7D3C1
-Golden_dark		49 22 70	195 189 162	C3BDA2
-Golden_semi_darker	49 22 55	165 156 115	A59C73
-Golden_darker		49 22 25	78 73 50	4E4932
-Golden_darkest		49 22 15	47 44 30	2F2C1E
+Golden_light
+```EBE9E0```
+Golden_base
+```D7D3C1```
+Golden_dark
+```C3BDA2```
+Golden_semi_darker
+```A59C73```
+Golden_darker
+```4E4932```
+Golden_darkest
+```2F2C1E```
