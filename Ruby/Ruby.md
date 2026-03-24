@@ -20,10 +20,6 @@ rbenv global x.y.z
 ```
 eval "$(rbenv init -)"
 ```
-***OR***
-```
-rbenv init
-```
 ```
 which ruby
 ```
