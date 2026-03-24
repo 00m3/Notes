@@ -1,17 +1,29 @@
 {
-	"separator_line_margin": {
-		"prefix": "se",
+	"separator_8 underscore": {
+		"prefix": "ss",
 		"body": ["________ $1"],
-		"description": "sep_line_margin"
+		"description": "8 ___"
 	},
 
-	"separator_80": {
-		"prefix": "se",
+	"separator_80 underscore": {
+		"prefix": "ss",
 		"body": [
 			"________________________________________________________________________________",
 			"$1"
 		],
-		"description": "sep_80"
+		"description": "80 ________"
+	},
+
+	"separator_8 space": {
+		"prefix": "ss",
+		"body": ["        $1"],
+		"description": "8 space"
+	},
+
+	"separator_4 space": {
+		"prefix": "ss",
+		"body": ["    $1"],
+		"description": "4 space"
 	},
 
 	"separator_comment_multiline": {

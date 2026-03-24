@@ -5,7 +5,7 @@
 
 ---
 
-White `FFF8E7`
+White        `FFF8E7`
 
 Black_light `2E2E2E`
 Black_base `242424`
