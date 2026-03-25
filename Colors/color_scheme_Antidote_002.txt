@@ -4,3 +4,7 @@ Green           BBFF00
 Magenta         BB00FF
 Mint            00FFBB
 Blue            00BBFF
+
+Blue            0000FF
+Green           00FF00
+Red             FF0000
