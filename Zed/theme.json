@@ -74,7 +74,7 @@
                 "editor.invisible": "#fff8e7",
                 "editor.wrap_guide": "#00ff00",
                 "editor.active_wrap_guide": "#4e4932",
-                "editor.document_highlight.read_background": "#0000FFFF",
+                "editor.document_highlight.read_background": "#800000FF",
                 "editor.document_highlight.write_background": "#FF6600FF",
 
                 "terminal.background": "#292520",
@@ -296,7 +296,7 @@
                 "panel.indent_guide_hover": "#fff8e7",
                 "panel.indent_guide_active": "#ffff99",
                 "editor.debugger_active_line.background": "#800000",
-                "editor.document_highlight.bracket_background": "#800000",
+                "editor.document_highlight.bracket_background": "#0000FF",
                 "element.selection_background": "#fff8e7",
                 "drop_target.border": "#a59c73",
                 "scrollbar.thumb.active_background": "#fff8e7",
