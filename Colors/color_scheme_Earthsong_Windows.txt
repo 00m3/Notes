@@ -1,13 +1,13 @@
-Black		C3BDA2	C3BDA2
-Red		C94234	FF645A
-Green		85C54C	98E036
-Yellow		F5AE2E	E0D561
-Blue		1398B9	5FDAFF
-Purple		D0633D	FF9269
-Cyan		509552	84F088
-White		EBE9E0	EBE9E0
+Black           C3BDA2   C3BDA2
+Red             C94234   FF645A
+Green           85C54C   98E036
+Yellow          F5AE2E   E0D561
+Blue            1398B9   5FDAFF
+Purple          D0633D   FF9269
+Cyan            509552   84F088
+White           EBE9E0   EBE9E0
 
-Foreground	E5C7A9
-Background	292520
-Cursor_color	00FF00
-Selection_BG	EBE9E0
+Foreground      E5C7A9
+Background      292520
+Cursor_color    00FF00
+Selection_BG    EBE9E0
