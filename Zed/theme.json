@@ -130,7 +130,7 @@
                 "hint": "#4D4D4DFF",
                 "hint.background": "#fff8e7",
                 "hint.border": "#fff8e7",
-                "ignored": "#4D4D4DFF",
+                "ignored": "#FFCCFF",
                 "ignored.background": "#fff8e7",
                 "ignored.border": "#4D4D4DFF",
                 "info": "#fff8e7",
